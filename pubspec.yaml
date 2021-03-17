@@ -1,8 +1,8 @@
 name: flutter_package_example
 description: A new Flutter package for testing
 version: 0.0.1
-author:
-homepage:
+author: ptuzinek  <przeo1996@gmail.com>
+homepage: https://github.com/ptuzinek/flutter_package_example
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
